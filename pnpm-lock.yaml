@@ -1,0 +1,19 @@
+lockfileVersion: 5.4
+
+specifiers:
+  delegates: ^1.0.0
+  koa-compose: ^4.1.0
+
+dependencies:
+  delegates: 1.0.0
+  koa-compose: 4.1.0
+
+packages:
+
+  /delegates/1.0.0:
+    resolution: {integrity: sha512-bd2L678uiWATM6m5Z1VzNCErI3jiGzt6HGY8OVICs40JQq/HALfbyNJmp0UDakEY4pMMaN0Ly5om/B1VI/+xfQ==}
+    dev: false
+
+  /koa-compose/4.1.0:
+    resolution: {integrity: sha512-8ODW8TrDuMYvXRwra/Kh7/rJo9BtOfPc6qO8eAfC80CnCvSjSl0bkRM24X6/XBBEyj0v1nRUQ1LyOy3dbqOWXw==}
+    dev: false
